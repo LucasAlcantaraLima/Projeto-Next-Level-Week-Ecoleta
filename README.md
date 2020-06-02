@@ -1,5 +1,5 @@
 # Projeto Ecoleta
-Projeto de aprendizagem da Semana Next Level Week. ![Rocketseat](https://raw.githubusercontent.com/bmndx/next-level-week-starter/4e4b2f3335ebf0857f2da9ef1d2150651ee5faf1/img/rocketseat.svg)
+Projeto de aprendizagem da Semana Next Level Week. By ![Rocketseat](https://raw.githubusercontent.com/bmndx/next-level-week-starter/4e4b2f3335ebf0857f2da9ef1d2150651ee5faf1/img/rocketseat.svg)
 
 
 ![Next Level Week](img/nwl.svg)
