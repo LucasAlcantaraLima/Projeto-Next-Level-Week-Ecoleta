@@ -106,7 +106,7 @@ alinhamentos
     max-width: 360px;
     height: 72px;
 
-    border-radius: 10px;
+    border-radius: 20px;
 
     display: flex;
     align-items: center;
@@ -127,8 +127,8 @@ alinhamentos
     width: 72px;
     height: 72px;
 
-    border-top-left-radius: 8px;
-    border-bottom-left-radius: 8px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 
     background-color: rgba(0, 0, 0, 0.08);
 
