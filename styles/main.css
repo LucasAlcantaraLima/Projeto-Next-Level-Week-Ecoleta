@@ -106,7 +106,7 @@ alinhamentos
     max-width: 360px;
     height: 72px;
 
-    border-radius: 8px;
+    border-radius: 10px;
 
     display: flex;
     align-items: center;
@@ -162,6 +162,7 @@ alinhamentos
     #page-home .content {
         align-items: center;
         text-align: center;
+        position: absolute;
     }
     #page-home header a {
         position: absolute;
