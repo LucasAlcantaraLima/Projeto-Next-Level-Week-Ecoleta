@@ -25,3 +25,13 @@ dia 1 - Hoje é o primeiro dia do NWL, vi coisas que me assustavam até por em p
 ### ![camera](https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png) Screenshot do que fiz hoje:
 
 ![HomePageProjeto](img/homePageEcoleta.png)
+
+--
+
+# Meu aprendizado (dia 2):
+
+dia 2 - Segundo dia da NWL, hoje explorei mais ainda a parte de css e html, adicionando agora o javascript na aplicação, entendi conceitos que eram complexos pra mim. Creio que foi um dia produtivo hoje.
+
+### ![camera](https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png) Screenshot do que fiz hoje:
+
+![PageCadastro](img/cadastroPage.png)
