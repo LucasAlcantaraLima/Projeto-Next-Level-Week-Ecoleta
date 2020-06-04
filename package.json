@@ -1,0 +1,27 @@
+{
+  "name": "NLW",
+  "version": "1.0.0",
+  "description": "Projeto de aprendizagem da Semana Next Level Week. By ![Rocketseat](https://raw.githubusercontent.com/bmndx/next-level-week-starter/4e4b2f3335ebf0857f2da9ef1d2150651ee5faf1/img/rocketseat.svg)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasAlcantaraLima/Projeto-Next-Level-Week-Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasAlcantaraLima/Projeto-Next-Level-Week-Ecoleta/issues"
+  },
+  "homepage": "https://github.com/LucasAlcantaraLima/Projeto-Next-Level-Week-Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
