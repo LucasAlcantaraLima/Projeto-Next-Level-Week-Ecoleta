@@ -12,7 +12,7 @@ A NLW (Next Level Week), é um evento online com conteúdo prático, desafios e 
 
 -
 
-# Sobre o Projeto ![Ecoleta](assets/logo.svg)
+# Sobre o Projeto ![Ecoleta](public/assets/logo.svg)
 
 O Ecoleta é um projeto criado para gerenciar o processo de coleta de resíduos nas cidades do Brasil. Com ele é possível encontrar o ponto de coleta mais próximo de você ou cadastrar um novo ponto de coleta.
 
