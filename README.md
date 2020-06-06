@@ -44,6 +44,6 @@ me aperfeiçoei mais em css e acredito estar indo no caminho certo!
 
 ### ![camera](https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png) Screenshots do que fiz hoje:
 
-![Dia3](img/paginacaCadastro.png) 
+![Dia3](img/paginaCadastro.png) 
 ![Dia3](img/paginaCadastro2.png)
 ![Dia3](img/jaCadastrado.png)
