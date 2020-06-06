@@ -38,11 +38,12 @@ dia 2 - Segundo dia da NWL, hoje explorei mais ainda a parte de css e html, adic
 
 # Meu aprendizado (dia 3):
 
-dia 3 - Hoje usei mais css, agora para colocar os icones na pagina de cadastroe tambem
+dia 3 - Hoje usei mais css, agora para colocar os ícones na pagina de cadastro e também
 para criar a pagina onde fica os pontos cadastrados. Gostei muito do que fizemos hoje,
-me aperfecoei mais em css e acredito estar indo no caminho certo!
+me aperfeiçoei mais em css e acredito estar indo no caminho certo!
 
-### ![camera](img/paginacaCadastro) Screenshots do que fiz hoje:
+### ![camera](https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png) Screenshots do que fiz hoje:
 
-![camera](img/paginaCadastro2)
-![camera](img/jaCadastrado)
+![Dia3](img/paginacaCadastro) 
+![Dia3](img/paginaCadastro2)
+![Dia3](img/jaCadastrado)
