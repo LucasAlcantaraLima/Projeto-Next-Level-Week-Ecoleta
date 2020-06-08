@@ -10,10 +10,15 @@
     }
     #page-home header a {
         position: absolute;
-        bottom: -80px;
+        bottom: -200px;
         left: 50%;
         transform: translateX(-50%);
     }
+
+    #page-home header a span {
+        width: 30px;
+    }
+
     #page-home main {
         align-items: center;
     }
@@ -42,5 +47,13 @@
 @media (max-height: 760px) {
     #page-home {
         background-position-y: 200px;
+    }
+}
+
+@media (max-width: 720px) {
+    #page-create-point {
+        display: grid;
+        grid-template-columns: 1; 
+        
     }
 }
